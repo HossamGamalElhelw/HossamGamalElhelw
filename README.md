@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on web developer
-- 📫 How to reach me whatsapp01152625693
+- 📫 How to reach me whatsapp 01152625693
 
 <!---
 HossamGamalElhelw/HossamGamalElhelw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
