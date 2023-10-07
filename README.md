@@ -1,7 +1,7 @@
 # Hi there, I'm [Hossam Gamal]! 👋
 
 <div align="center">
-![Image Alt Text](https://raw.githubusercontent.com/HossamGamalElhelw/fictional-carnival/9d11b04e9b4de9cba43e600489bf23f3185e9e6a/Embedded-Systems-Architecture-1.jpg)
+<img src="https://raw.githubusercontent.com/HossamGamalElhelw/fictional-carnival/main/Embedded-Systems-Architecture-1.jpg" alt="Image Alt Text">
 </div>
 
 ## About Me 🚀
