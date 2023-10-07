@@ -38,11 +38,11 @@ I'm an **[Embedded System Engineer & Front-End Developer]**; I'm a tech enthusia
 
 **[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
-### [Project 2 Title](project_2_link)
+### [Mapty](https://github.com/HossamGamalElhelw/Mapty)
 
 ![Project 2 Screenshot](https://raw.githubusercontent.com/HossamGamalElhelw/fictional-carnival/main/Mapty.png)
 
-**[Mapty]** is a **[The project "Mapty" is a cool and innovative application that allows users to pinpoint their location on a map and track their running or cycling activities. With Mapty, you can not only mark your starting and ending points but also keep a record of the distance covered, the duration of your trip, and even your cadence.  ]** built with **[HTML , CSS ,JavaScript , Mapping and Location Services ,APIs ,Security,Testing and Quality Assurance**]**. You can check out the repository [Mapty](https://github.com/HossamGamalElhelw/Mapty). [Live Demo](https://hossamgamalelhelw.github.io/Mapty/)
+**[Mapty]** is a **[The project "Mapty" is a cool and innovative application that allows users to pinpoint their location on a map and track their running or cycling activities. With Mapty, you can not only mark your starting and ending points but also keep a record of the distance covered, the duration of your trip, and even your cadence.  ]** built with **[HTML , CSS ,JavaScript , Mapping and Location Services ,APIs ,Security,Testing and Quality Assurance**]**. [Live Demo](https://hossamgamalelhelw.github.io/Mapty/)
 
 ## Get in Touch 📬
 - [LinkedIn](https://www.linkedin.com/in/hossam-gamal-810b74220)
