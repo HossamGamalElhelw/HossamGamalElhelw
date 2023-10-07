@@ -1,7 +1,7 @@
 # Hi there, I'm [Hossam Gamal]! 👋
 
 <div align="center">
-  <img src="Embedded-Systems-Architecture-1.jpg" alt="Banner Image">
+ [<img src="Embedded-Systems-Architecture-1.jpg" alt="Banner Image">](https://github.com/HossamGamalElhelw/fictional-carnival/blob/9d11b04e9b4de9cba43e600489bf23f3185e9e6a/Embedded-Systems-Architecture-1.jpg)
 </div>
 
 ## About Me 🚀
