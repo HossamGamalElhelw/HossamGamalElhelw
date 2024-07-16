@@ -31,8 +31,14 @@ I'm an **[Embedded System Engineer & Front-End Developer]**; I'm a tech enthusia
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=1F7AEB)
 
 ## Featured Projects 💻
+### [Digital Thermometer with Motor Control using PIC18F4620🌡](https://github.com/HossamGamalElhelw/Digital-Thermometer-DC-Motor)
+![Project_Photo ](https://github.com/HossamGamalElhelw/Digital-Thermometer-DC-Motor/blob/main/Design.png)
+- This project demonstrates the implementation of a digital thermometer using the PIC18F4620 microcontroller. 
+- The system reads temperatures from two LM35 sensors and controls two motors based on the temperature readings.
+- Additionally, the temperatures are displayed on a 16x4 LCD.
+
 ### [Employees Management](https://github.com/HossamGamalElhelw/Employees-Management)
-![Project 1 Screenshot](https://github.com/HossamGamalElhelw/fictional-carnival/blob/66f9fdd855ef894d44b0a92c84246105d4824ad1/Images/System%20Emloyee.png)
+![Project_Photo](https://github.com/HossamGamalElhelw/fictional-carnival/blob/66f9fdd855ef894d44b0a92c84246105d4824ad1/Images/System%20Emloyee.png)
 
 **[Employee Management System
 This program allows you to manage a list of employees.
