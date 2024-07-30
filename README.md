@@ -33,7 +33,7 @@ I'm an **[Embedded System Engineer & Front-End Developer]**; I'm a tech enthusia
 ## Featured Projects 💻
 
 ### [ATMEGA328 Ardunio Uno](https://github.com/HossamGamalElhelw/PCB_ATMEGA328_Nano)
-![Project_Photo ](https://github.com/HossamGamalElhelw/PCB_ATMEGA328_Nano/tree/main/PCB_ATMEGA%20328%20Nano/images/Sheet.png)
+![Project_Photo ](https://github.com/HossamGamalElhelw/PCB_ATMEGA328_Nano/blob/main/PCB_ATMEGA%20328%20Nano/images/Sheet.png)
 - I designed an ATMEGA328 Nano from scratch.
 - I downloaded all necessary libraries and added 3D models to each component.
 - I included images of each component in the project sheet, as shown in the provided image.
