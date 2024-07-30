@@ -34,10 +34,11 @@ I'm an **[Embedded System Engineer & Front-End Developer]**; I'm a tech enthusia
 
 ### [ATMEGA328 Ardunio Uno](https://github.com/HossamGamalElhelw/PCB_ATMEGA328_Nano)
 ![Project_Photo ](https://github.com/HossamGamalElhelw/PCB_ATMEGA328_Nano/Sheet.png)
--
--
--
-
+-I designed an ATMEGA328 Nano from scratch.
+-I downloaded all necessary libraries and added 3D models to each component.
+-I included images of each component in the project sheet, as shown in the provided image.
+-The PCB size is 1.7 inches by 0.74 inches.
+-Enjoy the project and feel free to use it!
 ### [Digital Thermometer with Motor Control using PIC18F4620🌡](https://github.com/HossamGamalElhelw/Digital-Thermometer-DC-Motor)
 ![Project_Photo ](https://github.com/HossamGamalElhelw/Digital-Thermometer-DC-Motor/blob/main/Design.png)
 - This project demonstrates the implementation of a digital thermometer using the PIC18F4620 microcontroller. 
