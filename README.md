@@ -31,6 +31,13 @@ I'm an **[Embedded System Engineer & Front-End Developer]**; I'm a tech enthusia
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=1F7AEB)
 
 ## Featured Projects 💻
+
+### [ATMEGA328 Ardunio Uno](https://github.com/HossamGamalElhelw/PCB_ATMEGA328_Nano)
+![Project_Photo ](https://github.com/HossamGamalElhelw/PCB_ATMEGA328_Nano/Sheet.png)
+-
+-
+-
+
 ### [Digital Thermometer with Motor Control using PIC18F4620🌡](https://github.com/HossamGamalElhelw/Digital-Thermometer-DC-Motor)
 ![Project_Photo ](https://github.com/HossamGamalElhelw/Digital-Thermometer-DC-Motor/blob/main/Design.png)
 - This project demonstrates the implementation of a digital thermometer using the PIC18F4620 microcontroller. 
