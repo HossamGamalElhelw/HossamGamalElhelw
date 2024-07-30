@@ -21,6 +21,7 @@ I'm an **[Embedded System Engineer & Front-End Developer]**; I'm a tech enthusia
 ![C](https://img.shields.io/badge/-C-007ACC?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PCB](https://img.shields.io/badge/-PCB-8BC34A?style=flat-square&logo=pcb&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
