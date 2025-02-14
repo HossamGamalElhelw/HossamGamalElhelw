@@ -1,7 +1,7 @@
 # Hi there, I'm [Hossam Gamal]! 👋
 
 <div align="center">
-<img src="![image](https://github.com/user-attachments/assets/11743168-012b-4c80-a70f-8c962eddcf6c)
+<img src="[image](https://github.com/user-attachments/assets/11743168-012b-4c80-a70f-8c962eddcf6c)
 " alt="Image Alt Text">
 </div>
 
