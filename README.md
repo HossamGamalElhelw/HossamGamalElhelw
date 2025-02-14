@@ -1,8 +1,7 @@
 # Hi there, I'm [Hossam Gamal]! 👋
 
 <div align="center">
-<img src="[image](https://github.com/user-attachments/assets/11743168-012b-4c80-a70f-8c962eddcf6c)
-" alt="Image Alt Text">
+<img src="![image](https://github.com/user-attachments/assets/b2d61e53-8388-4ab7-89df-51a6db98285a)" alt="Image Alt Text">
 </div>
 
 ## About Me 🚀
