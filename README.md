@@ -6,11 +6,11 @@
 
 ## About Me 🚀
 
-I'm an **[Embedded System Engineer & Front-End Developer]**; I'm a tech enthusiast with a passion for **[C, Microcontroller 8051, Arm, ROTS, Python, JavaScript, HTML, CSS, React.js]**.
+I'm an **[Front-End Developer]**; I'm a tech enthusiast with a passion for **[JavaScript,React.js, tailwindui, Material UI,CSS modules, React-hook-form & Zod,C, Microcontroller, Arm, ROTS]**.
 
 🌟 I thrive on conquering complex challenges, always on the lookout for opportunities to learn and grow. Collaboration is my superpower, and I enjoy working with diverse teams to craft innovative solutions.
 
-- 🌱 Currently exploring: **[Embedded System Interfacing]**
+- 🌱 Currently exploring: **[Front-end Developer]**
 - 🔭 Currently working on: **[Freelance Projects]**
 - 🌍 Fluent in: **[English]**
 - 📫 Reach out to me at: **[hossamjamalelhelw@gmail.com]**
@@ -18,14 +18,14 @@ I'm an **[Embedded System Engineer & Front-End Developer]**; I'm a tech enthusia
 
 
 ## My Skills 🧠
-![C](https://img.shields.io/badge/-C-007ACC?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/-C-007ACC?style=flat-square&logo=c&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-007ACC?style=flat-square&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PCB](https://img.shields.io/badge/-PCB-8BC34A?style=flat-square&logo=pcb&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-007ACC?style=flat-square&logoColor=white)
 ![Interfacing](https://img.shields.io/badge/-Interfacing-007ACC?style=flat-square&logoColor=white)
 ![Microcontroller](https://img.shields.io/badge/-Microcontroller-007ACC?style=flat-square&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-001D26?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF)
