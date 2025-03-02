@@ -37,19 +37,11 @@ I'm an **[Front-End Developer]**; I'm a tech enthusiast with a passion for **[Ja
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=1F7AEB)
 
 ## Featured Projects 💻
+### [Mapty](https://github.com/HossamGamalElhelw/Mapty)
 
-### [ATMEGA328 Ardunio Uno](https://github.com/HossamGamalElhelw/PCB_ATMEGA328_Nano)
-![Project_Photo ](https://github.com/HossamGamalElhelw/PCB_ATMEGA328_Nano/blob/main/PCB_ATMEGA%20328%20Nano/images/Sheet.png)
-- I designed an ATMEGA328 Nano from scratch.
-- I downloaded all necessary libraries and added 3D models to each component.
-- I included images of each component in the project sheet, as shown in the provided image.
-- The PCB size is 1.7 inches by 0.74 inches.
-- Enjoy the project and feel free to use it!
-### [Digital Thermometer with Motor Control using PIC18F4620🌡](https://github.com/HossamGamalElhelw/Digital-Thermometer-DC-Motor)
-![Project_Photo ](https://github.com/HossamGamalElhelw/Digital-Thermometer-DC-Motor/blob/main/Design.png)
-- This project demonstrates the implementation of a digital thermometer using the PIC18F4620 microcontroller. 
-- The system reads temperatures from two LM35 sensors and controls two motors based on the temperature readings.
-- Additionally, the temperatures are displayed on a 16x4 LCD.
+![Project 2 Screenshot](https://raw.githubusercontent.com/HossamGamalElhelw/fictional-carnival/main/Mapty.png)
+
+**[Mapty]** is a **[The project "Mapty" is a cool and innovative application that allows users to pinpoint their location on a map and track their running or cycling activities. With Mapty, you can not only mark your starting and ending points but also keep a record of the distance covered, the duration of your trip, and even your cadence.  ]** built with **[HTML , CSS ,JavaScript , Mapping and Location Services ,APIs ,Security,Testing and Quality Assurance**]**. [Live Demo](https://hossamgamalelhelw.github.io/Mapty/)
 
 ### [Employees Management](https://github.com/HossamGamalElhelw/Employees-Management)
 ![Project_Photo](https://github.com/HossamGamalElhelw/fictional-carnival/blob/66f9fdd855ef894d44b0a92c84246105d4824ad1/Images/System%20Emloyee.png)
@@ -65,11 +57,19 @@ You can perform the following options:
 6. Filter Employees by Salary: View employees with a salary above a specified minimum.
 7. Exit: Quit the program.]** built with **[C , single Linked List , Makefile]**.
 
-### [Mapty](https://github.com/HossamGamalElhelw/Mapty)
+### [ATMEGA328 Ardunio Uno](https://github.com/HossamGamalElhelw/PCB_ATMEGA328_Nano)
+![Project_Photo ](https://github.com/HossamGamalElhelw/PCB_ATMEGA328_Nano/blob/main/PCB_ATMEGA%20328%20Nano/images/Sheet.png)
+- I designed an ATMEGA328 Nano from scratch.
+- I downloaded all necessary libraries and added 3D models to each component.
+- I included images of each component in the project sheet, as shown in the provided image.
+- The PCB size is 1.7 inches by 0.74 inches.
+- Enjoy the project and feel free to use it!
 
-![Project 2 Screenshot](https://raw.githubusercontent.com/HossamGamalElhelw/fictional-carnival/main/Mapty.png)
-
-**[Mapty]** is a **[The project "Mapty" is a cool and innovative application that allows users to pinpoint their location on a map and track their running or cycling activities. With Mapty, you can not only mark your starting and ending points but also keep a record of the distance covered, the duration of your trip, and even your cadence.  ]** built with **[HTML , CSS ,JavaScript , Mapping and Location Services ,APIs ,Security,Testing and Quality Assurance**]**. [Live Demo](https://hossamgamalelhelw.github.io/Mapty/)
+### [Digital Thermometer with Motor Control using PIC18F4620🌡](https://github.com/HossamGamalElhelw/Digital-Thermometer-DC-Motor)
+![Project_Photo ](https://github.com/HossamGamalElhelw/Digital-Thermometer-DC-Motor/blob/main/Design.png)
+- This project demonstrates the implementation of a digital thermometer using the PIC18F4620 microcontroller. 
+- The system reads temperatures from two LM35 sensors and controls two motors based on the temperature readings.
+- Additionally, the temperatures are displayed on a 16x4 LCD.
 
 ## Get in Touch 📬
 - [LinkedIn](https://www.linkedin.com/in/hossam-gamal-810b74220)
