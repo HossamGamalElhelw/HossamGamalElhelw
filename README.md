@@ -41,7 +41,7 @@ I'm an **[Front-End Developer]**; I'm a tech enthusiast with a passion for **[Ja
 Develop a simple E-commerce web application using React.js and the DummyJSON API:
 🔗 https://dummyjson.com/docs/products
 The project demonstrates working with APIs, managing authentication, handling routing, and implementing basic state management with React Context.
-![Project Screenshot](https://github.com/HossamGamalElhelw/Simple-E-commerce-ReactJs/screenshots/homepage.png)
+![Project Screenshot](https://github.com/HossamGamalElhelw/Simple-E-commerce-ReactJs/blob/main/screenshots/homepage.png)
 
 
 ### [Mapty](https://github.com/HossamGamalElhelw/Mapty)
