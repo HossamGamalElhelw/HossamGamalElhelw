@@ -37,6 +37,13 @@ I'm an **[Front-End Developer]**; I'm a tech enthusiast with a passion for **[Ja
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=1F7AEB)
 
 ## Featured Projects 💻
+### [simple E-commerce](https://github.com/HossamGamalElhelw/Simple-E-commerce-ReactJs)
+Develop a simple E-commerce web application using React.js and the DummyJSON API:
+🔗 https://dummyjson.com/docs/products
+The project demonstrates working with APIs, managing authentication, handling routing, and implementing basic state management with React Context.
+![Project Screenshot](https://github.com/HossamGamalElhelw/Simple-E-commerce-ReactJs/screenshots/homepage.png)
+
+
 ### [Mapty](https://github.com/HossamGamalElhelw/Mapty)
 
 ![Project 2 Screenshot](https://raw.githubusercontent.com/HossamGamalElhelw/fictional-carnival/main/Mapty.png)
