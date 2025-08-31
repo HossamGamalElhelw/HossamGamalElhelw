@@ -37,10 +37,8 @@ I'm an **[Front-End Developer]**; I'm a tech enthusiast with a passion for **[Ja
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=1F7AEB)
 
 ## Featured Projects 💻
-### [Integrated Home](https://github.com/HossamGamalElhelw/GradutionProject)
-# Integrated Home 🏡
 
-[View Repository](https://github.com/HossamGamalElhelw/GradutionProject)
+### [Integrated Home](https://github.com/HossamGamalElhelw/GradutionProject)
 
 ## Overview
 The Integrated Home is a smart home web application developed using React.js and Firebase.
