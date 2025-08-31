@@ -39,6 +39,8 @@ I'm an **[Front-End Developer]**; I'm a tech enthusiast with a passion for **[Ja
 ## Featured Projects 💻
 
 ### [Integrated Home](https://github.com/HossamGamalElhelw/GradutionProject)
+## Screenshot
+![Project Screenshot](https://github.com/HossamGamalElhelw/GradutionProject/blob/main/public/dashboard.jpg)
 
 ## Overview
 The Integrated Home is a smart home web application developed using React.js and Firebase.
@@ -52,10 +54,8 @@ The system integrates APIs, uses Firebase Authentication for secure access, supp
 - 🔄 Routing with React Router  
 - ⚡ State management using React Context  
 
-## Screenshot
-![Project Screenshot](https://github.com/HossamGamalElhelw/GradutionProject/blob/main/public/dashboard.jpg)
-
 # [Blog CMS with User Interface and Management Dashboard](https://github.com/HossamGamalElhelw/Blog-CMS-with-user-interface-and-management-dashboard)
+![Project Screenshot](https://github.com/HossamGamalElhelw/Blog-CMS-with-user-interface-and-management-dashboard/blob/main/public/cover.jpg)
 
 ## 📌 Project Description
 This project is a **fully production-ready Blog CMS** that allows users to browse blog posts, filter them by category, read detailed posts, and interact through comments.  
@@ -64,14 +64,15 @@ It also provides an **admin dashboard** for managing posts, categories, and user
 The system includes:
 - **Public Pages** (Home, Categories, Post Details, Authentication)
 - **Private Dashboard** (Posts Management, Categories Management, Users Management)
-![Project Screenshot](https://github.com/HossamGamalElhelw/Blog-CMS-with-user-interface-and-management-dashboard/blob/main/public/cover.jpg)
-
+#
 ### [simple E-commerce](https://github.com/HossamGamalElhelw/Simple-E-commerce-ReactJs)
+![Project Screenshot](https://github.com/HossamGamalElhelw/Simple-E-commerce-ReactJs/blob/main/screenshots/homepage.png)
+
 Develop a simple E-commerce web application using React.js and the DummyJSON API:
 🔗 https://dummyjson.com/docs/products
 The project demonstrates working with APIs, managing authentication, handling routing, and implementing basic state management with React Context.
-![Project Screenshot](https://github.com/HossamGamalElhelw/Simple-E-commerce-ReactJs/blob/main/screenshots/homepage.png)
 
+#
 
 ### [Mapty](https://github.com/HossamGamalElhelw/Mapty)
 
@@ -93,6 +94,7 @@ You can perform the following options:
 6. Filter Employees by Salary: View employees with a salary above a specified minimum.
 7. Exit: Quit the program.]** built with **[C , single Linked List , Makefile]**.
 
+#
 ### [ATMEGA328 Ardunio Uno](https://github.com/HossamGamalElhelw/PCB_ATMEGA328_Nano)
 ![Project_Photo ](https://github.com/HossamGamalElhelw/PCB_ATMEGA328_Nano/blob/main/PCB_ATMEGA%20328%20Nano/images/Sheet.png)
 - I designed an ATMEGA328 Nano from scratch.
@@ -100,7 +102,7 @@ You can perform the following options:
 - I included images of each component in the project sheet, as shown in the provided image.
 - The PCB size is 1.7 inches by 0.74 inches.
 - Enjoy the project and feel free to use it!
-
+#
 ### [Digital Thermometer with Motor Control using PIC18F4620🌡](https://github.com/HossamGamalElhelw/Digital-Thermometer-DC-Motor)
 ![Project_Photo ](https://github.com/HossamGamalElhelw/Digital-Thermometer-DC-Motor/blob/main/Design.png)
 - This project demonstrates the implementation of a digital thermometer using the PIC18F4620 microcontroller. 
