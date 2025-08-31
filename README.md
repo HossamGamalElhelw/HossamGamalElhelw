@@ -1,23 +1,23 @@
-# Hi there, I'm [Hossam Gamal]! 👋
+# Hi there, I'm [Hossam Gamal]! 
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/4aac7efb-1542-4227-ac24-ee8f805e270f" alt="background image">
 </div>
 
-## About Me 🚀
+## About Me 
 
 I'm an **[Front-End Developer]**; I'm a tech enthusiast with a passion for **[JavaScript,React.js, tailwindui, Material UI,CSS modules, React-hook-form & Zod]**.
 
-🌟 I thrive on conquering complex challenges, always on the lookout for opportunities to learn and grow. Collaboration is my superpower, and I enjoy working with diverse teams to craft innovative solutions.
+ I thrive on conquering complex challenges, always on the lookout for opportunities to learn and grow. Collaboration is my superpower, and I enjoy working with diverse teams to craft innovative solutions.
 
-- 🌱 Currently exploring: **[Front-end Developer]**
-- 🔭 Currently working on: **[Freelance Projects]**
-- 🌍 Fluent in: **[English]**
-- 📫 Reach out to me at: **[hossamjamalelhelw@gmail.com]**
+-  Currently exploring: **[Front-end Developer]**
+-  Currently working on: **[Freelance Projects]**
+-  Fluent in: **[English]**
+-  Reach out to me at: **[hossamjamalelhelw@gmail.com]**
 
 
 
-## My Skills 🧠
+## My Skills 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
@@ -36,7 +36,7 @@ I'm an **[Front-End Developer]**; I'm a tech enthusiast with a passion for **[Ja
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-001D26?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=1F7AEB)
 
-## Featured Projects 💻
+## Featured Projects 
 
 ### [Integrated Home](https://github.com/HossamGamalElhelw/GradutionProject)
 ## Screenshot
@@ -48,16 +48,16 @@ It enables real-time monitoring and control of home appliances, tracks electrici
 The system integrates APIs, uses Firebase Authentication for secure access, supports routing with React Router, and manages global state with React Context, ensuring a seamless and interactive user experience.
 
 ## Features
-- 🔐 User Authentication with Firebase  
-- 🌐 API Integration for smart home devices  
-- 📊 Real-time monitoring dashboard  
-- 🔄 Routing with React Router  
-- ⚡ State management using React Context  
+-  User Authentication with Firebase  
+-  API Integration for smart home devices  
+-  Real-time monitoring dashboard  
+-  Routing with React Router  
+-  State management using React Context  
 
 # [Blog CMS with User Interface and Management Dashboard](https://github.com/HossamGamalElhelw/Blog-CMS-with-user-interface-and-management-dashboard)
 ![Project Screenshot](https://github.com/HossamGamalElhelw/Blog-CMS-with-user-interface-and-management-dashboard/blob/main/public/cover.png)
 
-## 📌 Project Description
+##  Project Description
 This project is a **fully production-ready Blog CMS** that allows users to browse blog posts, filter them by category, read detailed posts, and interact through comments.  
 It also provides an **admin dashboard** for managing posts, categories, and users with role-based permissions.
 
