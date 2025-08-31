@@ -55,6 +55,17 @@ The system integrates APIs, uses Firebase Authentication for secure access, supp
 ## Screenshot
 ![Project Screenshot](https://github.com/HossamGamalElhelw/GradutionProject/blob/main/public/dashboard.jpg)
 
+# [Blog CMS with User Interface and Management Dashboard](https://github.com/HossamGamalElhelw/Blog-CMS-with-user-interface-and-management-dashboard)
+
+## 📌 Project Description
+This project is a **fully production-ready Blog CMS** that allows users to browse blog posts, filter them by category, read detailed posts, and interact through comments.  
+It also provides an **admin dashboard** for managing posts, categories, and users with role-based permissions.
+
+The system includes:
+- **Public Pages** (Home, Categories, Post Details, Authentication)
+- **Private Dashboard** (Posts Management, Categories Management, Users Management)
+![Project Screenshot](https://github.com/HossamGamalElhelw/Blog-CMS-with-user-interface-and-management-dashboard/blob/main/public/cover.jpg)
+
 ### [simple E-commerce](https://github.com/HossamGamalElhelw/Simple-E-commerce-ReactJs)
 Develop a simple E-commerce web application using React.js and the DummyJSON API:
 🔗 https://dummyjson.com/docs/products
