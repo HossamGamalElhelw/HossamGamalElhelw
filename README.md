@@ -55,7 +55,7 @@ The system integrates APIs, uses Firebase Authentication for secure access, supp
 - ⚡ State management using React Context  
 
 # [Blog CMS with User Interface and Management Dashboard](https://github.com/HossamGamalElhelw/Blog-CMS-with-user-interface-and-management-dashboard)
-![Project Screenshot](https://github.com/HossamGamalElhelw/Blog-CMS-with-user-interface-and-management-dashboard/blob/main/public/cover.jpg)
+![Project Screenshot](https://github.com/HossamGamalElhelw/Blog-CMS-with-user-interface-and-management-dashboard/blob/main/public/cover.png)
 
 ## 📌 Project Description
 This project is a **fully production-ready Blog CMS** that allows users to browse blog posts, filter them by category, read detailed posts, and interact through comments.  
