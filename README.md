@@ -37,6 +37,26 @@ I'm an **[Front-End Developer]**; I'm a tech enthusiast with a passion for **[Ja
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=1F7AEB)
 
 ## Featured Projects 💻
+### [Integrated Home](https://github.com/HossamGamalElhelw/GradutionProject)
+# Integrated Home 🏡
+
+[View Repository](https://github.com/HossamGamalElhelw/GradutionProject)
+
+## Overview
+The Integrated Home is a smart home web application developed using React.js and Firebase.
+It enables real-time monitoring and control of home appliances, tracks electricity consumption, and provides safety alerts for conditions such as gas leaks, high temperature, or humidity.
+The system integrates APIs, uses Firebase Authentication for secure access, supports routing with React Router, and manages global state with React Context, ensuring a seamless and interactive user experience.
+
+## Features
+- 🔐 User Authentication with Firebase  
+- 🌐 API Integration for smart home devices  
+- 📊 Real-time monitoring dashboard  
+- 🔄 Routing with React Router  
+- ⚡ State management using React Context  
+
+## Screenshot
+![Project Screenshot](https://github.com/HossamGamalElhelw/GradutionProject/blob/main/public/dashboard.jpg)
+
 ### [simple E-commerce](https://github.com/HossamGamalElhelw/Simple-E-commerce-ReactJs)
 Develop a simple E-commerce web application using React.js and the DummyJSON API:
 🔗 https://dummyjson.com/docs/products
