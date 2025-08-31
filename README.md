@@ -73,7 +73,11 @@ Develop a simple E-commerce web application using React.js and the DummyJSON API
 The project demonstrates working with APIs, managing authentication, handling routing, and implementing basic state management with React Context.
 
 #
-
+🏦 [MyBank Project](https://github.com/HossamGamalElhelw/MyBank)
+![Project Screenshot](https://github.com/HossamGamalElhelw/MyBank/blob/main/images/main-page.png)
+MyBank is a simple banking web application built with JavaScript (Vanilla JS) that simulates core online banking features such as money transfers, loan requests, and account management. It provides an interactive UI with dynamic updates and session timeout functionality, making it a complete small-scale banking demo project.
+[Live Demo](https://hossamgamalelhelw.github.io/MyBank/)
+#
 ### [Mapty](https://github.com/HossamGamalElhelw/Mapty)
 
 ![Project 2 Screenshot](https://raw.githubusercontent.com/HossamGamalElhelw/fictional-carnival/main/Mapty.png)
